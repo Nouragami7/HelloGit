@@ -9,6 +9,9 @@ public class HelloITI {
 	 public void printHello() {
         System.out.println("Hello");
     }
+	 public void printHi() {
+        System.out.println("Hi");
+    }
 
     public static void main(String[] args) {
         HelloITI helloITI = new HelloITI();
