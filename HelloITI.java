@@ -16,4 +16,7 @@ public class HelloITI {
 		helloITI.printHelloGit();
 		helloITI.printHello();
     }
+	public  void aliaasfunction(){
+		 System.out.println("Hello");
+	}
 }
