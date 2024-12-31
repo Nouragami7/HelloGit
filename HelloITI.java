@@ -9,6 +9,6 @@ public class HelloITI {
     public static void main(String[] args) {
         HelloITI helloITI = new HelloITI();
         helloITI.printHelloITI();
-		helloITI.printHelloGit();
+		//helloITI.printHelloGit();
     }
 }
