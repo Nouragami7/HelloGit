@@ -18,7 +18,7 @@ public class HelloITI {
         HelloITI helloITI = new HelloITI();
         helloITI.printHelloITI();
 
-		//helloITI.printHelloGit();
+		helloITI.printHelloGit();
 
 		helloITI.printHelloGit();
 		helloITI.printHello();
